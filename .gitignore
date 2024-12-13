@@ -20,3 +20,11 @@
 # Go workspace file
 go.work
 go.work.sum
+.terraform/
+.terraform.lock.hcl
+.terraform.lock.hcl
+.terraform.lock.hcl_bkp
+./app/.terraform/*
+.terraform_bkp/*
+.terraform/
+.terraform.lock.hcl
